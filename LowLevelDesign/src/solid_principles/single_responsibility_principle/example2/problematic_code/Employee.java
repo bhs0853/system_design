@@ -1,4 +1,4 @@
-package solid_principles.single_responsibility_principle.problematic_code;
+package solid_principles.single_responsibility_principle.example2.problematic_code;
 
 public class Employee {
     private int id;
