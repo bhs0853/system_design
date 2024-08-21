@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="79bb61da-ee77-422c-98e1-749b593983aa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/solid_principles/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/LowLevelDesign.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example1/better_code/IReportType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example1/better_code/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example1/better_code/PDFType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example1/better_code/ReportGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example1/better_code/WordReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example1/problematic_code/ReportGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example2/better_code/ClothingType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example2/better_code/DiscountCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example2/better_code/ElectronicsType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example2/better_code/IProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example2/better_code/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example2/problematic_code/DiscountCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example3/better_code/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example3/better_code/IVehicleType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example3/better_code/InsuranceQuote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example3/better_code/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example3/better_code/VehicleInsuranceEvaluator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example3/problematic_code/VehicleInsuranceEvaluator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example1_frontend_code/better_code/useUserFetcher.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example1_frontend_code/better_code/userContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example1_frontend_code/better_code/userProfileUI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example1_frontend_code/problematic_code/userProfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example2/better_code/CalculateEmployeeSalary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example2/better_code/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example2/better_code/EmployeePerformanceData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example2/better_code/FetchEmployeeBioData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example2/problematic_code/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example3/better_code/UserActivityLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example3/better_code/UserManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example3/problematic_code/UserManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LowLevelDesign.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example1/better_code/IReportType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example1/better_code/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example1/better_code/PDFType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example1/better_code/ReportGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example1/better_code/WordReport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example1/problematic_code/ReportGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example2/better_code/ClothingType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example2/better_code/DiscountCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example2/better_code/ElectronicsType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example2/better_code/IProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example2/better_code/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example2/problematic_code/DiscountCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example3/better_code/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example3/better_code/IVehicleType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example3/better_code/InsuranceQuote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example3/better_code/Truck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example3/better_code/VehicleInsuranceEvaluator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example3/problematic_code/VehicleInsuranceEvaluator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example1_frontend_code/better_code/useUserFetcher.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example1_frontend_code/better_code/userContainer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example1_frontend_code/better_code/userProfileUI.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example1_frontend_code/problematic_code/userProfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example2/better_code/CalculateEmployeeSalary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example2/better_code/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example2/better_code/EmployeePerformanceData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example2/better_code/FetchEmployeeBioData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example2/problematic_code/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example3/better_code/UserActivityLogger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example3/better_code/UserManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example3/problematic_code/UserManager.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JSX File" />
+        <option value="JavaScript File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;bhs0853&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/bhs0853/system_design.git&quot;,
+    &quot;accountId&quot;: &quot;bb862cc5-34e0-415a-a2f9-a826f49da379&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2dxVrBrr923fyd83BWvM2mJELVV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/system_design/LowLevelDesign&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="LowLevelDesign" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="LowLevelDesign" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.387" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.387" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79bb61da-ee77-422c-98e1-749b593983aa" name="Changes" comment="" />
+      <created>1710949913405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710949913405</updated>
+      <workItem from="1710949914460" duration="361000" />
+      <workItem from="1710950286446" duration="18000" />
+      <workItem from="1710950316965" duration="3035000" />
+      <workItem from="1710957492574" duration="214000" />
+      <workItem from="1710958056268" duration="360000" />
+      <workItem from="1710958427723" duration="1235000" />
+      <workItem from="1710991634200" duration="3963000" />
+      <workItem from="1711006042653" duration="156000" />
+      <workItem from="1711006211268" duration="468000" />
+      <workItem from="1711006691401" duration="2033000" />
+      <workItem from="1711030925761" duration="1813000" />
+      <workItem from="1711088421620" duration="797000" />
+      <workItem from="1711089842714" duration="4690000" />
+      <workItem from="1711116320868" duration="4970000" />
+      <workItem from="1711203203915" duration="2603000" />
+      <workItem from="1711217776524" duration="2204000" />
+      <workItem from="1711256188523" duration="3478000" />
+      <workItem from="1720525217535" duration="5345000" />
+      <workItem from="1720530725350" duration="43000" />
+      <workItem from="1722572958360" duration="3402000" />
+      <workItem from="1722621137319" duration="1214000" />
+      <workItem from="1724160989903" duration="1100000" />
+      <workItem from="1724163308872" duration="2962000" />
+      <workItem from="1724167549992" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
