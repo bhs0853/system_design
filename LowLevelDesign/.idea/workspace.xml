@@ -5,78 +5,88 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79bb61da-ee77-422c-98e1-749b593983aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/solid_principles/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/LowLevelDesign.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example1/better_code/IReportType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example1/better_code/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example1/better_code/PDFType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example1/better_code/ReportGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example1/better_code/WordReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example1/problematic_code/ReportGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example2/better_code/ClothingType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example2/better_code/DiscountCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example2/better_code/ElectronicsType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example2/better_code/IProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example2/better_code/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example2/problematic_code/DiscountCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example3/better_code/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example3/better_code/IVehicleType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example3/better_code/InsuranceQuote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example3/better_code/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example3/better_code/VehicleInsuranceEvaluator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example3/problematic_code/VehicleInsuranceEvaluator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example1_frontend_code/better_code/useUserFetcher.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example1_frontend_code/better_code/userContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example1_frontend_code/better_code/userProfileUI.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example1_frontend_code/problematic_code/userProfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example2/better_code/CalculateEmployeeSalary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example2/better_code/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example2/better_code/EmployeePerformanceData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example2/better_code/FetchEmployeeBioData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example2/problematic_code/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example3/better_code/UserActivityLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example3/better_code/UserManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example3/problematic_code/UserManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LowLevelDesign.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example1/better_code/IReportType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example1/better_code/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example1/better_code/PDFType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example1/better_code/ReportGenerator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example1/better_code/WordReport.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example1/problematic_code/ReportGenerator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example2/better_code/ClothingType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example2/better_code/DiscountCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example2/better_code/ElectronicsType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example2/better_code/IProduct.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example2/better_code/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example2/problematic_code/DiscountCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example3/better_code/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example3/better_code/IVehicleType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example3/better_code/InsuranceQuote.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example3/better_code/Truck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example3/better_code/VehicleInsuranceEvaluator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example3/problematic_code/VehicleInsuranceEvaluator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example1_frontend_code/better_code/useUserFetcher.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example1_frontend_code/better_code/userContainer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example1_frontend_code/better_code/userProfileUI.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example1_frontend_code/problematic_code/userProfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example2/better_code/CalculateEmployeeSalary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example2/better_code/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example2/better_code/EmployeePerformanceData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example2/better_code/FetchEmployeeBioData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example2/problematic_code/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example3/better_code/UserActivityLogger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example3/better_code/UserManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example3/problematic_code/UserManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/LowLevelDesign.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/LowLevelDesign.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/interface_segregation_principle/better_code/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/interface_segregation_principle/better_code/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/interface_segregation_principle/better_code/Buyer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/interface_segregation_principle/better_code/Buyer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/interface_segregation_principle/better_code/ICanApprove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/interface_segregation_principle/better_code/ICanApprove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/interface_segregation_principle/better_code/ICanBuy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/interface_segregation_principle/better_code/ICanBuy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/interface_segregation_principle/better_code/ICanModify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/interface_segregation_principle/better_code/ICanModify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/interface_segregation_principle/better_code/ICanSell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/interface_segregation_principle/better_code/ICanSell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/interface_segregation_principle/better_code/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/interface_segregation_principle/better_code/Seller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/interface_segregation_principle/better_code/Seller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/interface_segregation_principle/problematic_code/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/interface_segregation_principle/problematic_code/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/interface_segregation_principle/problematic_code/Buyer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/interface_segregation_principle/problematic_code/Buyer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/interface_segregation_principle/problematic_code/IUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/interface_segregation_principle/problematic_code/IUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/interface_segregation_principle/problematic_code/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/interface_segregation_principle/problematic_code/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/interface_segregation_principle/problematic_code/Seller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/interface_segregation_principle/problematic_code/Seller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/liskov_substitution_principle/better_code/ICreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/liskov_substitution_principle/better_code/ICreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/liskov_substitution_principle/better_code/IInternationalSupportedCreditCards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/liskov_substitution_principle/better_code/IInternationalSupportedCreditCards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/liskov_substitution_principle/better_code/IUpiSupportedCreditCards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/liskov_substitution_principle/better_code/IUpiSupportedCreditCards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/liskov_substitution_principle/better_code/MasterCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/liskov_substitution_principle/better_code/MasterCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/liskov_substitution_principle/better_code/RuPayCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/liskov_substitution_principle/better_code/RuPayCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/liskov_substitution_principle/better_code/VisaCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/liskov_substitution_principle/better_code/VisaCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/liskov_substitution_principle/problematic_code/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/liskov_substitution_principle/problematic_code/CreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/liskov_substitution_principle/problematic_code/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/liskov_substitution_principle/problematic_code/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/liskov_substitution_principle/problematic_code/MasterCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/liskov_substitution_principle/problematic_code/MasterCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/liskov_substitution_principle/problematic_code/RuPayCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/liskov_substitution_principle/problematic_code/RuPayCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/liskov_substitution_principle/problematic_code/VisaCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/liskov_substitution_principle/problematic_code/VisaCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example1/better_code/EmailNotification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example1/better_code/EmailNotification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example1/better_code/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example1/better_code/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example1/better_code/NotificationSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example1/better_code/NotificationSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example1/better_code/NotificationType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example1/better_code/NotificationType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example1/better_code/PushNotification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example1/better_code/PushNotification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example1/better_code/SMSNotification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example1/better_code/SMSNotification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example1/better_code/WhatsappNotification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example1/better_code/WhatsappNotification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example1/problematic_code/NotificationSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example1/problematic_code/NotificationSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example1/problematic_code/NotificationType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example1/problematic_code/NotificationType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example2/better_code/UserProfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example2/better_code/UserProfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example2/better_code/UserProfileSelector.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example2/better_code/UserProfileSelector.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example2/problematic_code/UserProfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example2/problematic_code/UserProfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example3/better_code/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example3/better_code/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example3/better_code/ReportDocType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example3/better_code/ReportDocType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example3/better_code/ReportGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example3/better_code/ReportGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example3/better_code/ReportPdfType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example3/better_code/ReportPdfType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example3/better_code/iReportType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example3/better_code/iReportType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example3/problematic_code/ReportGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example3/problematic_code/ReportGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example4/better_code/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example4/better_code/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example4/better_code/InsuranceQuote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example4/better_code/InsuranceQuote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example4/better_code/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example4/better_code/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example4/better_code/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example4/better_code/Truck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example4/better_code/VehicleInsuranceEvaluator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example4/better_code/VehicleInsuranceEvaluator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example4/better_code/iVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example4/better_code/iVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example4/problematic_code/VehicleInsuranceEvaluator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example4/problematic_code/VehicleInsuranceEvaluator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example5/better_code/DiscountCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example5/better_code/DiscountCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example5/better_code/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example5/better_code/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example5/better_code/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example5/better_code/MobilePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example5/better_code/Shirt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example5/better_code/Shirt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example5/better_code/iClothing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example5/better_code/iClothing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example5/better_code/iElectronics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example5/better_code/iElectronics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example5/better_code/iProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example5/better_code/iProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/open_closed_principle/example5/problematic_code/DiscountCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/open_closed_principle/example5/problematic_code/DiscountCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example1_frontend_code/better_code/useUserFetcher.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example1_frontend_code/better_code/useUserFetcher.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example1_frontend_code/better_code/userContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example1_frontend_code/better_code/userContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example1_frontend_code/better_code/userProfileUI.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example1_frontend_code/better_code/userProfileUI.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example1_frontend_code/problematic_code/userProfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example1_frontend_code/problematic_code/userProfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example2/better_code/CalculateEmployeeSalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example2/better_code/CalculateEmployeeSalary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example2/better_code/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example2/better_code/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example2/better_code/EmployeePerformanceData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example2/better_code/EmployeePerformanceData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example2/better_code/FetchEmployeeBioData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example2/better_code/FetchEmployeeBioData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example2/problematic_code/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example2/problematic_code/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example3/better_code/UserActivityLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example3/better_code/UserActivityLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example3/better_code/UserManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example3/better_code/UserManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example3/problematic_code/UserManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example3/problematic_code/UserManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example4/better_code/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example4/better_code/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example4/better_code/OrderProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example4/better_code/OrderProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example4/better_code/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example4/better_code/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example4/problematic_code/OrderProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example4/problematic_code/OrderProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example5/better_code/SchoolManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example5/better_code/SchoolManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example5/better_code/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example5/better_code/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid_principles/src/solid_principles/single_responsibility_principle/example5/problematic_code/SchoolManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solid_principles/single_responsibility_principle/example5/problematic_code/SchoolManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,9 +96,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="JSX File" />
         <option value="JavaScript File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -119,24 +129,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/code/system_design/LowLevelDesign&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/code/system_design/LowLevelDesign",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\system_design\LowLevelDesign\src" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="LowLevelDesign" />
@@ -155,8 +173,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.387" />
-        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.387" />
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.22855.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.22855.74" />
       </set>
     </attachedChunks>
   </component>
@@ -192,6 +210,7 @@
       <workItem from="1724160989903" duration="1100000" />
       <workItem from="1724163308872" duration="2962000" />
       <workItem from="1724167549992" duration="8000" />
+      <workItem from="1730185599024" duration="5406000" />
     </task>
     <servers />
   </component>
